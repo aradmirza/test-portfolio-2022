@@ -30,7 +30,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
     align-items: center;
 }
 
@@ -211,4 +211,5 @@ main {
 .button-cv{
     margin-top: 50px;
     text-align: center;
+    margin-bottom: 20px;
 }
